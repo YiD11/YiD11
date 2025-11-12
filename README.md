@@ -9,9 +9,4 @@
   - Backend Development: Go
   - Big Data: Flink
   - Deep Learning: Pytorch
-- 🎮 Games:
-  - City Skylines
-  - Project Sekai
-  - Rouge-like games
-  - Text adventure games
 
