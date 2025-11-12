@@ -4,8 +4,7 @@
 - 🚶🏻 Experiences:
   - Bachelor's degree at South China Normal Univerisy
   - Developed a real-time streaming flight data analytics system in collaboration with the Commercial Aircraft Corporation of China (COMAC)
-  - collaborated with  to develop a real-time data analysis system
-  - 4.5-month Golang backend internship at ByteDance Volcano Engine
+  - Golang backend internship at ByteDance Volcano Engine
 - 💻 Bullet points:
   - Backend Development: Go
   - Big Data: Flink
