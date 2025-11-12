@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**YiD11/YiD11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently pursuing a Master's degree in Software Engineering at Beihang University (BUAA).
 - 🚶🏻 Experiences:
   - Bachelor's degree at South China Normal Univerisy
