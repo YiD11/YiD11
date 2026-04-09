@@ -6,7 +6,8 @@
   - Developed a real-time streaming flight data analytics system in collaboration with the Commercial Aircraft Corporation of China (COMAC)
   - Backend software development engineer internship at ByteDance Volcano Engine
 - 💻 Bullet points:
-  - Backend Development: Go
+  - Backend Development: Golang, Java
+  - Cloud Native: Kubernetes, Volcano
   - Big Data: Flink
   - Deep Learning: Pytorch
 
